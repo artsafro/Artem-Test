@@ -1,0 +1,39 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# DCC autosaves / backups
+*.blend1
+*.blend2
+*.max.bak
+*.bak
+autoback/
+backup/
+
+# Unreal Engine
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+.vs/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Claude Code local settings
+.claude/settings.local.json
